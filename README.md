@@ -4,7 +4,7 @@
 ### 2020 What I am doing Now:
 
 - ⌚ I’m currently working on Data Science and Statistical Models
-- 🌱 I’m currently learning Python 100 days
+- 🌱 I’m currently learning [Python 100 days](https://github.com/jackfrued/Python-100-Days/)
 - 🎻 I’m looking to collaborate on Mazas violin duet 
 - 📫 How to reach me: [BILIBILI](https://space.bilibili.com/394390651?spm_id_from=333.788.b_765f7570696e666f.2)
 - 😄 Favorite : 街舞 Street Dance of China! Jackson Yee+ Yibo Wang
