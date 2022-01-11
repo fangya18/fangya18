@@ -1,7 +1,7 @@
 ### ✨ Hola Hola ✨
 
 
-### 2020 What I am doing Now:
+### 2022 What I am doing Now:
 
 - ⌚ I’m currently working on Data Science and Statistical Models
 - 🌱 I’m currently learning [Python 100 days](https://github.com/fangya18/Data-science/tree/master/python/100days)
