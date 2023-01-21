@@ -10,6 +10,6 @@
 - 🎨 Favorite : Rap+街舞 Street Dance of China! Jackson Yee+ Yibo Wang
 - 💎 Dream 小梦想： 我想当data science 界的网红 🙈🙈🙈
 - 💕 Quote: 我们一定会看到花海盛开🌸，等到大雁归来！
-                                            --🔆
+                                            🔆
 
 **If you have a project in Machine Learning, Music, or Art, Please reach out !!!**
