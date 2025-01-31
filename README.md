@@ -1,7 +1,7 @@
 ### ✨ Hola Hola ✨
 
 
-### 2024 What I am doing Now:
+### 2025 What I am doing Now:
 
 - 🔆 I’m currently working on Survival Analysis with [*Jianguo*](https://www.researchgate.net/profile/Jian-Guo-Zhou) and NLP with [*Bowen*](https://www.linkedin.com/in/bowen-long/) 
 - 🌱 I’m working my way to be a Grandmaster in [Kaggle](https://www.kaggle.com/fangya) 
